@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Smoker_funk",
+			"path": "../../Smoker_funk"
+		},
+		{
+			"name": "Smoker",
+			"path": "../../Smoker"
+		}
+	],
+	"settings": {}
+}
